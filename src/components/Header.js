@@ -59,7 +59,7 @@ const Header = () => {
         animate={{ y: -10 }}
         transition={{ delay: 0.2, type: 'spring', stiffness: 120 }}
       >
-        <h1>Pizza Joint</h1>
+        <h1>Vegan Pizza</h1>
       </motion.div>
     </header>
   );
